@@ -1,0 +1,12 @@
+*{
+    background-color: aqua;
+}
+#container{
+    width: 900px;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+form>div{
+    margin-top: 100px;
+}
